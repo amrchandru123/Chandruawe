@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T10:30:10 IST" name="Default suite" finished-at="2023-02-21T10:30:41 IST" duration-ms="30319">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T10:30:10 IST" name="Default test" finished-at="2023-02-21T10:30:41 IST" duration-ms="30319">
+      <class name="ui.Pom1">
+        <test-method is-config="true" signature="pm1()[pri:0, instance:ui.Pom1@7ce3cb8e]" started-at="2023-02-21T10:30:10 IST" name="pm1" finished-at="2023-02-21T10:30:37 IST" duration-ms="26572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pm1 -->
+        <test-method signature="goandclick()[pri:0, instance:ui.Pom1@7ce3cb8e]" started-at="2023-02-21T10:30:37 IST" name="goandclick" finished-at="2023-02-21T10:30:40 IST" duration-ms="2670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goandclick -->
+        <test-method is-config="true" signature="pm2()[pri:0, instance:ui.Pom1@7ce3cb8e]" started-at="2023-02-21T10:30:40 IST" name="pm2" finished-at="2023-02-21T10:30:41 IST" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pm2 -->
+      </class> <!-- ui.Pom1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
